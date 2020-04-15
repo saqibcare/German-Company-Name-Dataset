@@ -1,5 +1,5 @@
 # German-Company-Names-Dataset
-This repository hold the German Companies names in a CSV file, i will keep it updated by time to time. 
+This repository hold the German Companies names in a CSV file. 
 
 We can use these names to train our model for text classification, whether the given input is a valid company name of not.
 
